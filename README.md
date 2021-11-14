@@ -53,26 +53,3 @@ To deploy an application with a MongoDB database to Heroku, set up a MongoDB Atl
 
   * [Deploy with Heroku and MongoDB Atlas](../04-Important/MongoAtlas-Deploy.md)
 
-### Deployment: 
-
-
-* The URL of the functional, deployed application.
-
-https://kajal-workout-tracker.herokuapp.com/
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project: 
-
-https://github.com/kajalpatel20/Workout-Tracker
-
-
-## License:
- APACHE 2.0
-
-  [![Github License](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)]
-## Questions:
-
-The repo for this project can be found here
-
-https://github.com/kajalpatel20/Workout-Tracker
-
-For any questions or to report issues, email me at: kajalpatel20@gmail.com
